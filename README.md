@@ -71,7 +71,7 @@ In the histogram dialog box, first, click the Label’s Checkbox as we have labe
 
 ## Sample Output
 
-
+<img src="image/1554980990_unnamed (1).png" width="500">
 
  
 
